@@ -1,6 +1,9 @@
 Name - Priyanshi Bhatnagar 
+
 Class - 26BAH217-A
+
 UID - 26BAI10020 
+
 # Hospital Management System (C Language)
 
 A complete, console-based Hospital Management System written in **pure C (C99)**
